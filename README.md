@@ -1,0 +1,1 @@
+# Assembly_bellekteki_iki_sayiyi_toplama
